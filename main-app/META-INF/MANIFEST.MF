@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: 22.0.1 (Homebrew)
+Main-Class: com.app.Main
